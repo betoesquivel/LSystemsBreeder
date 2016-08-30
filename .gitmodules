@@ -1,0 +1,12 @@
+[submodule "CanvasRender"]
+	path = CanvasRender
+	url = git@github.com:betoesquivel/hackmtyaug16_LSystemsCanvasRender.git
+[submodule "Genetic"]
+	path = Genetic
+	url = git@github.com:betoesquivel/hackmtyaug16_LSystemsGenetic.git
+[submodule "PipelineManager"]
+	path = PipelineManager
+	url = git@github.com:betoesquivel/hackmtyaug16_LSystemsPipelineManager.git
+[submodule "UI"]
+	path = UI
+	url = git@github.com:betoesquivel/hackmtyaug16_LSystemsUI.git
